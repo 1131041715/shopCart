@@ -1,0 +1,132 @@
+{
+	code = 1;
+	data = {
+		preFleet = (
+			{
+				shop = (
+					{
+						freight = 12;
+						attr = {
+							"\U5927\U5c0f" = S;
+							"\U5c3a\U7801" = 36;
+							"\U989c\U8272" = "\U7eff\U8272";
+						};
+						id = 18;
+						img = "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1506246807526&di=51c86ca6f8e8fbce6f9775feae68ce13&imgtype=0&src=http%3A%2F%2Fpic38.nipic.com%2F20140222%2F2656254_095504906000_2.jpg";
+						market = 222222;
+						money = 11111;
+						num = 2;
+						shopid = 8;
+						shopname = "\U5546\U6237\U540d\U79f0";
+						title = www;
+					},
+					{
+						freight = 14;
+						attr = {
+							"\U5927\U5c0f" = M;
+							"\U5c3a\U7801" = 40;
+							"\U989c\U8272" = "\U7ea2\U8272";
+						};
+						id = 21;
+						img = "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1506246807526&di=900a50f61ead7c5e517be3ad61af55e8&imgtype=0&src=http%3A%2F%2Fs2.lvjs.com.cn%2Fuploads%2Fpc%2Fplace2%2F2015-11-20%2F824ff408-a72c-4e9c-a678-5a9881a3b363.jpg";
+						market = 222222;
+						money = 11111;
+						num = 3;
+						shopid = 8;
+						shopname = "\U5546\U6237\U540d\U79f0";
+						title = www;
+					},
+					{
+						freight = 3;
+						attr = {
+							"\U5927\U5c0f" = XXXL;
+							"\U5c3a\U7801" = 38;
+							"\U989c\U8272" = "\U7ea2\U8272";
+						};
+						id = 22;
+						img = "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1506246827575&di=88b99bd25777c45963d908412c75a2b6&imgtype=jpg&src=http%3A%2F%2Fc.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2Fd788d43f8794a4c2674c7f1804f41bd5ad6e3991.jpg";
+						market = 222222;
+						money = 11111;
+						num = 2;
+						shopid = 8;
+						shopname = "\U5546\U6237\U540d\U79f0";
+						title = www;
+					},
+					{
+						freight = 22;
+						attr = {
+							"\U5927\U5c0f" = XXXL;
+							"\U5c3a\U7801" = 38;
+							"\U989c\U8272" = "\U7ea2\U8272";
+						};
+						id = 23;
+						img = "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1506246807525&di=645d8d6d271c4ef493284ae1ee512b34&imgtype=0&src=http%3A%2F%2Fi1.s2.dpfile.com%2Fpc%2Ftrip%2Fe4f50ea8a1dba0b3cd8a9abf60698a83(640c360)%2Fthumb.jpg";
+						market = 213;
+						money = 123;
+						num = 1;
+						shopid = 8;
+						shopname = "\U5546\U6237\U540d\U79f0";
+						title = qwe;
+					},
+					{
+						freight = 5;
+						attr = {
+							"\U5927\U5c0f" = XXL;
+							"\U5c3a\U7801" = 40;
+							"\U989c\U8272" = "\U7ea2\U8272";
+						};
+						id = 24;
+						img = "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3956805945,1536371408&fm=11&gp=0.jpg";
+						market = 222222;
+						money = 11111;
+						num = 1;
+						shopid = 8;
+						shopname = "\U5546\U6237\U540d\U79f0";
+						title = www;
+					},
+				);
+				shopid = 8;
+				shopname = "\U5546\U6237\U540d\U79f0";
+			},
+			{
+				shop = (
+					{
+						freight = 9;
+						attr = {
+							"\U5927\U5c0f" = M;
+							"\U5c3a\U7801" = 37;
+							"\U989c\U8272" = "\U7eff\U8272";
+						};
+						id = 19;
+						img = "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1506246807405&di=f1b9a5a0ff0565769439c7fa86cd3482&imgtype=0&src=http%3A%2F%2Fimg.ph.126.net%2FVyi2b79Jj7rxWNmdLoi4lA%3D%3D%2F1096907984242813238";
+						market = 123;
+						money = 121;
+						num = 2;
+						shopid = 2;
+						shopname = "\U5546\U6237\U540d\U79f01";
+						title = a6;
+					},
+					{
+						freight = 10;
+						attr = {
+							"\U5927\U5c0f" = S;
+							"\U5c3a\U7801" = 39;
+							"\U989c\U8272" = "\U7ea2\U8272";
+						};
+						id = 20;
+						img = "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1506246871205&di=b72e349aee6f3ebd3f854902ea2f1dcd&imgtype=jpg&src=http%3A%2F%2Fd.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2F9825bc315c6034a885f53540c2134954082376d8.jpg";
+						market = 123;
+						money = 121;
+						num = 3;
+						shopid = 2;
+						shopname = "\U5546\U6237\U540d\U79f01";
+						title = a6;
+					},
+				);
+				shopid = 2;
+				shopname = "\U5546\U6237\U540d\U79f01";
+			},
+		);
+	};
+	msg = success;
+}

@@ -1,0 +1,132 @@
+{
+	code = 1;
+	data = {
+		list = (
+			{
+				shop = (
+					{
+						del = YES;
+						attr = {
+							"\U5927\U5c0f" = S;
+							"\U5c3a\U7801" = 36;
+							"\U989c\U8272" = "\U7eff\U8272";
+						};
+						id = 18;
+						img = "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3762055337,1151660603&fm=11&gp=0.jpg";
+						market = 222222;
+						money = 11111;
+						num = 2;
+						shopid = 8;
+						shopname = "\U5546\U6237\U540d\U79f0";
+						title = www;
+					},
+					{
+						del = YES;
+						attr = {
+							"\U5927\U5c0f" = M;
+							"\U5c3a\U7801" = 40;
+							"\U989c\U8272" = "\U7ea2\U8272";
+						};
+						id = 21;
+						img = "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1506243644898&di=05034db1d0fb4743a590f20c322b0a96&imgtype=0&src=http%3A%2F%2Fimg.pconline.com.cn%2Fimages%2Fupload%2Fupc%2Ftx%2Fwallpaper%2F1301%2F24%2Fc0%2F17688672_1359016769891.jpg";
+						market = 222222;
+						money = 11111;
+						num = 3;
+						shopid = 8;
+						shopname = "\U5546\U6237\U540d\U79f0";
+						title = www;
+					},
+					{
+						del = YES;
+						attr = {
+							"\U5927\U5c0f" = XXXL;
+							"\U5c3a\U7801" = 38;
+							"\U989c\U8272" = "\U7ea2\U8272";
+						};
+						id = 22;
+						img = "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1506243701117&di=62a1f2c34e006404ad59ff9b5384eb92&imgtype=jpg&src=http%3A%2F%2Fa.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2F79f0f736afc37931223c7be8e2c4b74542a9119e.jpg";
+						market = 222222;
+						money = 11111;
+						num = 2;
+						shopid = 8;
+						shopname = "\U5546\U6237\U540d\U79f0";
+						title = www;
+					},
+					{
+						del = YES;
+						attr = {
+							"\U5927\U5c0f" = XXXL;
+							"\U5c3a\U7801" = 38;
+							"\U989c\U8272" = "\U7ea2\U8272";
+						};
+						id = 23;
+						img = "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3956805945,1536371408&fm=11&gp=0.jpg";
+						market = 213;
+						money = 123;
+						num = 1;
+						shopid = 8;
+						shopname = "\U5546\U6237\U540d\U79f0";
+						title = qwe;
+					},
+					{
+						del = YES;
+						attr = {
+							"\U5927\U5c0f" = XXL;
+							"\U5c3a\U7801" = 40;
+							"\U989c\U8272" = "\U7ea2\U8272";
+						};
+						id = 24;
+						img = "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1506243644126&di=00f816c18a447443044493cffe22472c&imgtype=0&src=http%3A%2F%2Fimg.ph.126.net%2FVyi2b79Jj7rxWNmdLoi4lA%3D%3D%2F1096907984242813238";
+						market = 222222;
+						money = 11111;
+						num = 1;
+						shopid = 8;
+						shopname = "\U5546\U6237\U540d\U79f0";
+						title = www;
+					},
+				);
+				shopid = 8;
+				shopname = "\U5546\U6237\U540d\U79f0";
+			},
+			{
+				shop = (
+					{
+						del = YES;
+						attr = {
+							"\U5927\U5c0f" = M;
+							"\U5c3a\U7801" = 37;
+							"\U989c\U8272" = "\U7eff\U8272";
+						};
+						id = 19;
+						img = "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1506243644895&di=bc6b133e9365f3eac7dbb49e38281026&imgtype=0&src=http%3A%2F%2Fimage.tianjimedia.com%2FuploadImages%2F2014%2F316%2F54%2FWG6X7EE00550.jpg";
+						market = 123;
+						money = 121;
+						num = 2;
+						shopid = 2;
+						shopname = "\U5546\U6237\U540d\U79f01";
+						title = a6;
+					},
+					{
+						del = YES;
+						attr = {
+							"\U5927\U5c0f" = S;
+							"\U5c3a\U7801" = 39;
+							"\U989c\U8272" = "\U7ea2\U8272";
+						};
+						id = 20;
+						img = "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1506243644921&di=6f6b5c9c8dde213c4e8197c34e78f183&imgtype=0&src=http%3A%2F%2Fpic47.nipic.com%2F20140909%2F2531170_064614746000_2.jpg";
+						market = 123;
+						money = 121;
+						num = 3;
+						shopid = 2;
+						shopname = "\U5546\U6237\U540d\U79f01";
+						title = a6;
+					},
+				);
+				shopid = 2;
+				shopname = "\U5546\U6237\U540d\U79f01";
+			},
+		);
+	};
+	msg = success;
+}
